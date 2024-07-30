@@ -16,7 +16,6 @@ list_of_files = [
     f"WiCAD/{project_name}/pipeline/__init__.py",
     f"WiCAD/{project_name}/entity/__init__.py",
     f"WiCAD/{project_name}/constants/__init__.py"
-    f"WiCAD/{project_name}/Data",
 
     # src subfolders tree
     f"WiCAD/{project_name}/utils/common.py",
